@@ -1,0 +1,7 @@
+select{
+  appearance: none;
+  -moz-appearance: none;
+  width: 200px;
+  height: 100px;
+  outline: none;
+}
